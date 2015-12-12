@@ -1,0 +1,25 @@
+{
+  "name": "proxy-config",
+  "version": "1.0.0",
+  "description": "Load http proxies from a config file for use in web scraping.",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/h4kr/proxy-config.git"
+  },
+  "keywords": [
+    "proxy",
+    "node",
+    "javascript",
+    "config"
+  ],
+  "author": "h4kr.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/h4kr/proxy-config/issues"
+  },
+  "homepage": "https://github.com/h4kr/proxy-config"
+}
