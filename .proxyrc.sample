@@ -1,0 +1,4 @@
+http:
+	- user:pass@x.x.x.x:80
+	- user:pass@y.y.y.y:80
+	- user:pass@z.z.z.z:80
