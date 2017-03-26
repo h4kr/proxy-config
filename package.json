@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/h4kr/proxy-config/issues"
   },
-  "homepage": "https://github.com/h4kr/proxy-config"
+  "homepage": "https://github.com/h4kr/proxy-config",
+  "dependencies": {
+    "nconf": "^0.8.2"
+  }
 }
